@@ -1,0 +1,2374 @@
+2024-12-12T06:16:30+00:00 INFO Webhook could not be configured during connect process. PayPal does not allow webhooks where the domain is localhost.
+2024-12-12T06:35:08+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v2/checkout/orders
+    [method] => POST
+    [http_status] => 422
+    [request] => Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => 
+                    [surname] => 
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+
+    [error] => Array
+        (
+            [name] => UNPROCESSABLE_ENTITY
+            [details] => Array
+                (
+                    [0] => Array
+                        (
+                            [issue] => CURRENCY_NOT_SUPPORTED
+                            [links] => Array
+                                (
+                                )
+
+                            [description] => Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes.
+                        )
+
+                )
+
+            [message] => The requested action could not be performed, semantically incorrect, or failed business validation.
+            [debug_id] => f9882835933af
+            [links] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://developer.paypal.com/api/rest/reference/orders/v2/errors/#CURRENCY_NOT_SUPPORTED
+                            [rel] => information_link
+                        )
+
+                )
+
+        )
+
+)
+2024-12-12T06:35:08+00:00 ERROR Error creating PayPal order. Msg: Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes. Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => 
+                    [surname] => 
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+2024-12-12T06:35:32+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v2/checkout/orders
+    [method] => POST
+    [http_status] => 422
+    [request] => Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => 
+                    [surname] => 
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+
+    [error] => Array
+        (
+            [name] => UNPROCESSABLE_ENTITY
+            [details] => Array
+                (
+                    [0] => Array
+                        (
+                            [issue] => CURRENCY_NOT_SUPPORTED
+                            [links] => Array
+                                (
+                                )
+
+                            [description] => Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes.
+                        )
+
+                )
+
+            [message] => The requested action could not be performed, semantically incorrect, or failed business validation.
+            [debug_id] => f7341820e1e21
+            [links] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://developer.paypal.com/api/rest/reference/orders/v2/errors/#CURRENCY_NOT_SUPPORTED
+                            [rel] => information_link
+                        )
+
+                )
+
+        )
+
+)
+2024-12-12T06:35:32+00:00 ERROR Error creating PayPal order. Msg: Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes. Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => 
+                    [surname] => 
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+2024-12-12T06:35:55+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v2/checkout/orders
+    [method] => POST
+    [http_status] => 422
+    [request] => Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [address_line_2] => 
+                    [admin_area_1] => KL
+                    [admin_area_2] => tharuvana
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [address_line_2] => 
+                                    [admin_area_1] => KL
+                                    [admin_area_2] => tharuvana
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+
+    [error] => Array
+        (
+            [name] => UNPROCESSABLE_ENTITY
+            [details] => Array
+                (
+                    [0] => Array
+                        (
+                            [issue] => CURRENCY_NOT_SUPPORTED
+                            [links] => Array
+                                (
+                                )
+
+                            [description] => Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes.
+                        )
+
+                )
+
+            [message] => The requested action could not be performed, semantically incorrect, or failed business validation.
+            [debug_id] => f7552967d3035
+            [links] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://developer.paypal.com/api/rest/reference/orders/v2/errors/#CURRENCY_NOT_SUPPORTED
+                            [rel] => information_link
+                        )
+
+                )
+
+        )
+
+)
+2024-12-12T06:35:55+00:00 ERROR Error creating PayPal order. Msg: Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes. Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [address_line_2] => 
+                    [admin_area_1] => KL
+                    [admin_area_2] => tharuvana
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [address_line_2] => 
+                                    [admin_area_1] => KL
+                                    [admin_area_2] => tharuvana
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+2024-12-12T06:39:29+00:00 INFO Webhook could not be configured during connect process. PayPal does not allow webhooks where the domain is localhost.
+2024-12-12T06:40:31+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v2/checkout/orders
+    [method] => POST
+    [http_status] => 422
+    [request] => Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [address_line_2] => 
+                    [admin_area_1] => KL
+                    [admin_area_2] => tharuvana
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [address_line_2] => 
+                                    [admin_area_1] => KL
+                                    [admin_area_2] => tharuvana
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+
+    [error] => Array
+        (
+            [name] => UNPROCESSABLE_ENTITY
+            [details] => Array
+                (
+                    [0] => Array
+                        (
+                            [issue] => CURRENCY_NOT_SUPPORTED
+                            [links] => Array
+                                (
+                                )
+
+                            [description] => Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes.
+                        )
+
+                )
+
+            [message] => The requested action could not be performed, semantically incorrect, or failed business validation.
+            [debug_id] => f582089b77d92
+            [links] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://developer.paypal.com/api/rest/reference/orders/v2/errors/#CURRENCY_NOT_SUPPORTED
+                            [rel] => information_link
+                        )
+
+                )
+
+        )
+
+)
+2024-12-12T06:40:31+00:00 ERROR Error creating PayPal order. Msg: Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes. Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [address_line_2] => 
+                    [admin_area_1] => KL
+                    [admin_area_2] => tharuvana
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [address_line_2] => 
+                                    [admin_area_1] => KL
+                                    [admin_area_2] => tharuvana
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+2024-12-12T06:45:55+00:00 INFO Webhook could not be configured during connect process. PayPal does not allow webhooks where the domain is localhost.
+2024-12-12T06:51:39+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v2/checkout/orders
+    [method] => POST
+    [http_status] => 422
+    [request] => Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [address_line_2] => 
+                    [admin_area_1] => KL
+                    [admin_area_2] => tharuvana
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [address_line_2] => 
+                                    [admin_area_1] => KL
+                                    [admin_area_2] => tharuvana
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+
+    [error] => Array
+        (
+            [name] => UNPROCESSABLE_ENTITY
+            [details] => Array
+                (
+                    [0] => Array
+                        (
+                            [issue] => CURRENCY_NOT_SUPPORTED
+                            [links] => Array
+                                (
+                                )
+
+                            [description] => Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes.
+                        )
+
+                )
+
+            [message] => The requested action could not be performed, semantically incorrect, or failed business validation.
+            [debug_id] => f528694bb4ee4
+            [links] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://developer.paypal.com/api/rest/reference/orders/v2/errors/#CURRENCY_NOT_SUPPORTED
+                            [rel] => information_link
+                        )
+
+                )
+
+        )
+
+)
+2024-12-12T06:51:39+00:00 ERROR Error creating PayPal order. Msg: Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes. Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [address_line_2] => 
+                    [admin_area_1] => KL
+                    [admin_area_2] => tharuvana
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [address_line_2] => 
+                                    [admin_area_1] => KL
+                                    [admin_area_2] => tharuvana
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+2024-12-12T06:53:57+00:00 INFO Webhook could not be configured during connect process. PayPal does not allow webhooks where the domain is localhost.
+2024-12-12T06:54:37+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v2/checkout/orders
+    [method] => POST
+    [http_status] => 422
+    [request] => Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [address_line_2] => 
+                    [admin_area_1] => KL
+                    [admin_area_2] => tharuvana
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [address_line_2] => 
+                                    [admin_area_1] => KL
+                                    [admin_area_2] => tharuvana
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+
+    [error] => Array
+        (
+            [name] => UNPROCESSABLE_ENTITY
+            [details] => Array
+                (
+                    [0] => Array
+                        (
+                            [issue] => CURRENCY_NOT_SUPPORTED
+                            [links] => Array
+                                (
+                                )
+
+                            [description] => Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes.
+                        )
+
+                )
+
+            [message] => The requested action could not be performed, semantically incorrect, or failed business validation.
+            [debug_id] => f964742fc2bbc
+            [links] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://developer.paypal.com/api/rest/reference/orders/v2/errors/#CURRENCY_NOT_SUPPORTED
+                            [rel] => information_link
+                        )
+
+                )
+
+        )
+
+)
+2024-12-12T06:54:37+00:00 ERROR Error creating PayPal order. Msg: Currency code is not currently supported. Please refer https://developer.paypal.com/docs/integration/direct/rest/currency-codes/ for list of supported currency codes. Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [address_line_2] => 
+                    [admin_area_1] => KL
+                    [admin_area_2] => tharuvana
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => INR
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => INR
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => INR
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [address_line_2] => 
+                                    [admin_area_1] => KL
+                                    [admin_area_2] => tharuvana
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => GET_FROM_FILE
+            [return_url] => http://localhost/clone/?wc-api=ppcp_checkout_return&_checkoutnonce=d5bd0d7807
+            [cancel_url] => http://localhost/clone/?page_id=375
+            [brand_name] => 
+        )
+
+)
+2024-12-12T06:55:33+00:00 INFO PayPal order created via PaymentPlugins\WooCommerce\PPCP\Rest\Routes\CartOrder::handle_post_request. Args: Array
+(
+    [id] => 4VW614485W6949129
+    [intent] => CAPTURE
+    [status] => CREATED
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [reference_id] => default
+                    [amount] => Array
+                        (
+                            [currency_code] => USD
+                            [value] => 599.00
+                            [breakdown] => Array
+                                (
+                                    [item_total] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => PaymentPlugins\PayPalSDK\Shipping Object
+                                        (
+                                            [_values:protected] => Array
+                                                (
+                                                    [currency_code] => USD
+                                                    [value] => 0.00
+                                                )
+
+                                            [mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [index:PaymentPlugins\PayPalSDK\AbstractObject:private] => 
+                                            [patchRequest:PaymentPlugins\PayPalSDK\AbstractObject:private] => 
+                                        )
+
+                                    [handling] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                    [discount] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [payee] => Array
+                        (
+                            [email_address] => sb-xg7gk33335743@business.example.com
+                            [merchant_id] => 6L4RF3RTVXFS2
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [unit_amount] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 599.00
+                                        )
+
+                                    [quantity] => 1
+                                    [description] => Product ID: 581
+                                    [sku] => 581
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [admin_area_2] => tharuvana
+                                    [admin_area_1] => KL
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [admin_area_2] => tharuvana
+                    [admin_area_1] => KL
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+        )
+
+    [create_time] => 2024-12-12T06:55:33Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/4VW614485W6949129
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.sandbox.paypal.com/checkoutnow?token=4VW614485W6949129
+                    [rel] => approve
+                    [method] => GET
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/4VW614485W6949129
+                    [rel] => update
+                    [method] => PATCH
+                )
+
+            [3] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/4VW614485W6949129/capture
+                    [rel] => capture
+                    [method] => POST
+                )
+
+        )
+
+)
+2024-12-12T06:56:54+00:00 INFO PayPal order created via PaymentPlugins\WooCommerce\PPCP\Rest\Routes\CartOrder::handle_post_request. Args: Array
+(
+    [id] => 6YG42556AJ225400A
+    [intent] => CAPTURE
+    [status] => CREATED
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [reference_id] => default
+                    [amount] => Array
+                        (
+                            [currency_code] => USD
+                            [value] => 599.00
+                            [breakdown] => Array
+                                (
+                                    [item_total] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => PaymentPlugins\PayPalSDK\Shipping Object
+                                        (
+                                            [_values:protected] => Array
+                                                (
+                                                    [currency_code] => USD
+                                                    [value] => 0.00
+                                                )
+
+                                            [mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [index:PaymentPlugins\PayPalSDK\AbstractObject:private] => 
+                                            [patchRequest:PaymentPlugins\PayPalSDK\AbstractObject:private] => 
+                                        )
+
+                                    [handling] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                    [discount] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [payee] => Array
+                        (
+                            [email_address] => sb-xg7gk33335743@business.example.com
+                            [merchant_id] => 6L4RF3RTVXFS2
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [unit_amount] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 599.00
+                                        )
+
+                                    [quantity] => 1
+                                    [description] => Product ID: 581
+                                    [sku] => 581
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [admin_area_2] => tharuvana
+                                    [admin_area_1] => KL
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [admin_area_2] => tharuvana
+                    [admin_area_1] => KL
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+        )
+
+    [create_time] => 2024-12-12T06:56:54Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/6YG42556AJ225400A
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.sandbox.paypal.com/checkoutnow?token=6YG42556AJ225400A
+                    [rel] => approve
+                    [method] => GET
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/6YG42556AJ225400A
+                    [rel] => update
+                    [method] => PATCH
+                )
+
+            [3] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/6YG42556AJ225400A/capture
+                    [rel] => capture
+                    [method] => POST
+                )
+
+        )
+
+)
+2024-12-12T06:57:02+00:00 INFO Shipping updated for PayPal order 6YG42556AJ225400A. Patches: Array
+(
+    [0] => Array
+        (
+            [op] => replace
+            [path] => /purchase_units/@reference_id=='default'
+            [value] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 599.00
+                            [currency_code] => USD
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 599.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => USD
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => USD
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt C02 DKB Carhartt Lined Workwear JacketBrand: CarharttBrand Size: Medium Regular
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 599.00
+                                        )
+
+                                    [sku] => 581
+                                    [description] => Product ID: 581
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [options] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [id] => 0:free_shipping:1
+                                            [label] => Free shipping
+                                            [type] => SHIPPING
+                                            [selected] => 1
+                                            [amount] => Array
+                                                (
+                                                    [value] => 0.00
+                                                    [currency_code] => USD
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [reference_id] => default
+                    [payee] => Array
+                        (
+                            [email_address] => sb-xg7gk33335743@business.example.com
+                            [merchant_id] => 6L4RF3RTVXFS2
+                        )
+
+                )
+
+        )
+
+)
+2024-12-12T06:57:16+00:00 INFO Capturing payment for PayPal order 6YG42556AJ225400A via PaymentPlugins\WooCommerce\PPCP\PaymentHandler::process_payment. Order ID: 655
+2024-12-12T08:09:19+00:00 INFO PayPal order created via PaymentPlugins\WooCommerce\PPCP\Rest\Routes\CartOrder::handle_post_request. Args: Array
+(
+    [id] => 23P5740408204234K
+    [intent] => CAPTURE
+    [status] => CREATED
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [reference_id] => default
+                    [amount] => Array
+                        (
+                            [currency_code] => USD
+                            [value] => 70.00
+                            [breakdown] => Array
+                                (
+                                    [item_total] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 70.00
+                                        )
+
+                                    [shipping] => PaymentPlugins\PayPalSDK\Shipping Object
+                                        (
+                                            [_values:protected] => Array
+                                                (
+                                                    [currency_code] => USD
+                                                    [value] => 0.00
+                                                )
+
+                                            [mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [index:PaymentPlugins\PayPalSDK\AbstractObject:private] => 
+                                            [patchRequest:PaymentPlugins\PayPalSDK\AbstractObject:private] => 
+                                        )
+
+                                    [handling] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                    [discount] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [payee] => Array
+                        (
+                            [email_address] => sb-xg7gk33335743@business.example.com
+                            [merchant_id] => 6L4RF3RTVXFS2
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt Pocket Workwear T-Shirt YellowBrand: CarharttBrand Size: L
+                                    [unit_amount] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 70.00
+                                        )
+
+                                    [quantity] => 1
+                                    [description] => Product ID: 575
+                                    [sku] => 575
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [admin_area_2] => tharuvana
+                                    [admin_area_1] => KL
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [admin_area_2] => tharuvana
+                    [admin_area_1] => KL
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+        )
+
+    [create_time] => 2024-12-12T08:09:18Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/23P5740408204234K
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.sandbox.paypal.com/checkoutnow?token=23P5740408204234K
+                    [rel] => approve
+                    [method] => GET
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/23P5740408204234K
+                    [rel] => update
+                    [method] => PATCH
+                )
+
+            [3] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/23P5740408204234K/capture
+                    [rel] => capture
+                    [method] => POST
+                )
+
+        )
+
+)
+2024-12-12T08:10:42+00:00 INFO Shipping updated for PayPal order 23P5740408204234K. Patches: Array
+(
+    [0] => Array
+        (
+            [op] => replace
+            [path] => /purchase_units/@reference_id=='default'
+            [value] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 70.00
+                            [currency_code] => USD
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 70.00
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => USD
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0.00
+                                            [currency_code] => USD
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Mens Carhartt Pocket Workwear T-Shirt YellowBrand: CarharttBrand Size: L
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 70.00
+                                        )
+
+                                    [sku] => 575
+                                    [description] => Product ID: 575
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [options] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [id] => 0:free_shipping:1
+                                            [label] => Free shipping
+                                            [type] => SHIPPING
+                                            [selected] => 1
+                                            [amount] => Array
+                                                (
+                                                    [value] => 0.00
+                                                    [currency_code] => USD
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [reference_id] => default
+                    [payee] => Array
+                        (
+                            [email_address] => sb-xg7gk33335743@business.example.com
+                            [merchant_id] => 6L4RF3RTVXFS2
+                        )
+
+                )
+
+        )
+
+)
+2024-12-12T08:10:57+00:00 INFO Capturing payment for PayPal order 23P5740408204234K via PaymentPlugins\WooCommerce\PPCP\PaymentHandler::process_payment. Order ID: 674
+2024-12-12T10:37:12+00:00 INFO PayPal order created via PaymentPlugins\WooCommerce\PPCP\Rest\Routes\CartOrder::handle_post_request. Args: Array
+(
+    [id] => 9CM73428VV4223437
+    [intent] => CAPTURE
+    [status] => CREATED
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [reference_id] => default
+                    [amount] => Array
+                        (
+                            [currency_code] => USD
+                            [value] => 95.00
+                            [breakdown] => Array
+                                (
+                                    [item_total] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 95.00
+                                        )
+
+                                    [shipping] => PaymentPlugins\PayPalSDK\Shipping Object
+                                        (
+                                            [_values:protected] => Array
+                                                (
+                                                    [currency_code] => USD
+                                                    [value] => 0.00
+                                                )
+
+                                            [mappings:protected] => Array
+                                                (
+                                                )
+
+                                            [index:PaymentPlugins\PayPalSDK\AbstractObject:private] => 
+                                            [patchRequest:PaymentPlugins\PayPalSDK\AbstractObject:private] => 
+                                        )
+
+                                    [handling] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                    [tax_total] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                    [discount] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0.00
+                                        )
+
+                                )
+
+                        )
+
+                    [payee] => Array
+                        (
+                            [email_address] => sb-xg7gk33335743@business.example.com
+                            [merchant_id] => 6L4RF3RTVXFS2
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Vintage Carhartt Workwear Hooded Jacket DistressedBrand: CarharttDhs. 750.00
+                                    [unit_amount] => stdClass Object
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 95.00
+                                        )
+
+                                    [quantity] => 1
+                                    [description] => Product ID: 499
+                                    [sku] => 499
+                                )
+
+                        )
+
+                    [shipping] => Array
+                        (
+                            [name] => Array
+                                (
+                                    [full_name] => Muhmmad Ajnas
+                                )
+
+                            [address] => Array
+                                (
+                                    [address_line_1] => wayanad
+                                    [admin_area_2] => tharuvana
+                                    [admin_area_1] => KL
+                                    [postal_code] => 670645
+                                    [country_code] => IN
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Muhmmad
+                    [surname] => Ajnas
+                )
+
+            [email_address] => muhammedajnas98@gmail.com
+            [address] => Array
+                (
+                    [address_line_1] => wayanad
+                    [admin_area_2] => tharuvana
+                    [admin_area_1] => KL
+                    [postal_code] => 670645
+                    [country_code] => IN
+                )
+
+        )
+
+    [create_time] => 2024-12-12T10:37:12Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/9CM73428VV4223437
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.sandbox.paypal.com/checkoutnow?token=9CM73428VV4223437
+                    [rel] => approve
+                    [method] => GET
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/9CM73428VV4223437
+                    [rel] => update
+                    [method] => PATCH
+                )
+
+            [3] => Array
+                (
+                    [href] => https://api.sandbox.paypal.com/v2/checkout/orders/9CM73428VV4223437/capture
+                    [rel] => capture
+                    [method] => POST
+                )
+
+        )
+
+)

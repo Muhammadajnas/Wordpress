@@ -1,0 +1,5644 @@
+2024-12-18T06:01:20+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:22+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:25+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:26+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:28+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:30+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:31+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:32+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:34+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:36+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:38+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:40+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:41+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:43+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:45+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:46+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:48+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:50+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:51+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:53+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:54+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:55+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:56+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:57+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:01:59+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:01+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:03+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:04+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:06+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:08+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:10+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:11+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:13+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:16+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:17+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:19+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:21+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:23+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:25+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:26+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:28+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:30+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:31+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:33+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:34+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:36+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:38+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:39+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:40+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:42+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:44+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:46+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:48+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:49+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:51+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:53+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:55+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:02:57+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:00+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:01+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:03+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:05+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:07+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:10+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:11+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:13+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:14+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:15+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:17+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:19+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:20+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:20+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:22+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:24+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:26+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:28+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:30+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:32+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:33+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:36+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:37+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:39+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:41+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:44+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:46+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:48+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:49+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:51+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:53+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:55+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:57+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:03:59+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:02+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:04+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:07+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:09+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:11+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:13+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:15+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:17+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:19+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:22+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:24+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:26+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:27+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:29+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:31+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:33+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:35+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:37+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:38+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:39+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:41+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:43+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:46+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:47+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:49+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:51+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:52+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:53+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:54+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:55+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:56+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:57+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:04:59+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:00+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:02+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:03+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:05+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:06+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:08+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:10+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:11+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:13+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:14+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:17+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:19+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:21+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:23+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:25+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:27+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:28+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:30+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:32+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:34+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:35+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:37+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:38+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:39+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:40+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:41+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:41+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:42+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:43+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:44+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:45+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:46+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:47+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:48+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:49+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:50+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:50+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:52+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:53+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:55+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:57+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:05:59+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:01+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:02+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:05+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:07+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:09+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:11+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:13+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:15+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:16+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:18+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:19+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:20+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:22+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:25+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:26+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:28+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:29+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:31+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:32+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:34+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:35+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:36+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:37+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:38+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:39+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:41+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:41+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:43+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:44+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:46+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:46+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:48+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:50+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:51+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:53+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:54+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:55+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:56+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:57+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:06:59+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:01+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:02+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:03+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:05+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:07+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:08+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:10+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:12+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:12+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:13+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:14+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:15+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:17+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:20+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:21+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:22+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:22+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:23+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:24+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:25+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:26+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:28+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:28+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:30+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:30+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:31+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:32+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:34+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:34+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:36+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:37+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:38+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:40+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:40+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:41+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:42+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:43+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:44+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:46+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:47+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:48+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:48+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:49+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:50+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:51+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:53+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:53+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:55+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:56+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:57+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:07:58+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:00+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:02+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:04+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:06+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:08+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:10+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:11+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:14+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:16+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:17+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:18+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:18+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:19+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:20+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:21+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:22+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:23+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:24+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:24+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:26+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:26+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:28+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:28+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:29+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:30+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:31+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:32+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:33+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:34+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:35+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:36+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:37+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:38+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:39+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:40+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:41+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:42+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:43+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:44+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:44+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:46+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:47+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:48+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:48+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:49+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:50+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:51+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:51+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:52+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:53+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:54+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:55+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:56+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:56+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:57+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:08:59+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:00+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:02+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:03+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:04+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:05+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:07+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:08+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:09+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:10+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:11+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:12+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:13+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:15+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:15+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:17+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:17+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:19+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
+2024-12-18T06:09:20+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.sandbox.paypal.com/v1/oauth2/token
+    [method] => POST
+    [http_status] => 401
+    [request] => Array
+(
+    [grant_type] => client_credentials
+)
+
+    [error] => Array
+        (
+            [error] => invalid_client
+            [error_description] => Client Authentication failed
+        )
+
+)
