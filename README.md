@@ -58,7 +58,7 @@ This project is a custom-built WordPress eCommerce website designed to provide a
 ---
 
 ## **Screenshots**
-![fr](https://github.com/user-attachments/assets/637941eb-0ac4-4aaa-96c8-732eea1e8738)
+![Screenshot from 2024-12-18 11-27-14](https://github.com/user-attachments/assets/3d06c948-5500-4787-a499-682bbd50a023)
 
 ---
 
